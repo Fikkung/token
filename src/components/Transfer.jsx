@@ -3,7 +3,7 @@ import TronWeb from 'tronweb';
 
 // ตั้งค่า TronWeb
 const tronWeb = new TronWeb({
-  fullHost: 'https://api.nileex.io',
+  fullHost: 'https://nile.trongrid.io',
   privateKey: '24d6c901ff0c21a7dc265915c7305254414f0f60ae205f80cf27b8f927229f36', // ใส่ private key ของคุณที่นี่
 });
 
