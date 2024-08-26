@@ -4,7 +4,7 @@ import TronWeb from 'tronweb';
 // ตั้งค่า TronWeb
 const tronWeb = new TronWeb({
   fullHost: 'https://api.nileex.io',
-  privateKey: '2c2c8b200cf421a5ece15e78518494927bc4184e3b257876f130d65b259d4b9f', // ใส่ private key ของคุณที่นี่
+  privateKey: '24d6c901ff0c21a7dc265915c7305254414f0f60ae205f80cf27b8f927229f36', // ใส่ private key ของคุณที่นี่
 });
 
 // ที่อยู่ของคอนแทร็กต์ TRC20
